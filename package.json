@@ -1,0 +1,26 @@
+{
+  "name": "LIRI",
+  "version": "1.0.0",
+  "description": "node interface for spotify, omdb, and bands in town APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ded-nugent/LIRI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ded-nugent/LIRI/issues"
+  },
+  "homepage": "https://github.com/ded-nugent/LIRI#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0"
+  }
+}
